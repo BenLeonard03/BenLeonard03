@@ -1,0 +1,6 @@
+- Name: Ben Leonard
+- Student Number: 20101994
+- Programme Name:
+- Brief description of the animation achieved: each time you press the mouse a colored circle appears and each time you drag the mouse multiple appear in a loop
+- Known bugs and problems:
+- Any sources referred to during the development of this assignment: https://processing.org/
